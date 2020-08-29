@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# javascript-projects
+Fun Javascript projects repository
